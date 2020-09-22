@@ -31,13 +31,17 @@ Surprisingly, schools that have higher budget allotments per student have lower 
 
 ![alt text](https://github.com/rebekahcallkacz/pandas-challenge/blob/master/PyCitySchools/Images/spending_per_student_passing_rates.jpg "Average Scores by Budget Per Student")
 
-Although this analysis provides us with a general overview of the current patterns of testing performance within this specific district, this does not paint a complete picture. Both educators and educational researchers have raised concern about standardized testing since it is a flawed measure of performance which disadvantages students of color, students with low socioeconomic status (SES) and students with disabilities (FairTest, 2020). In evaluating schools and student performance on standardized testing, it is essential that we also review these factors. For example, one study on student performance in Grades 3-10 found that the student characteristics were almost four times as influential than school characteristics when evaluating math standardized test scores (Singh, 2015). This dataset did not include SES, race or disability status which are all shown to have significant effects on testing performance.  
+Although this analysis provides us with a general overview of the current patterns of testing performance within this specific district, this does not paint a complete picture. Both educators and educational researchers have raised concern about standardized testing since it is a flawed measure of performance which disadvantages students of color, students with low socioeconomic status (SES) and students with disabilities (FairTest, 2020). In evaluating schools and student performance on standardized testing, it is essential that we also review these factors. For example, one study on student performance in Grades 3-10 found that the student characteristics were almost four times as influential than school characteristics when evaluating math standardized test scores (Singh, 2015). This dataset did not include SES, race or disability status which are all shown to have significant effects on testing performance. Future analysis should include these factors to better understand student performance in this district. 
 
 ## References
-FairTest. (2020). "FairTest Fact Sheets". fairtest.org
+FairTest. (2020). FairTest Fact Sheets. *fairtest.org*
 
 Singh, M. (2015). Influence of socioeconomic disadvantages on mathematics achievement: A multilevel cohort analysis. *The Journal of Educational Research, 108*(5), 347-357.
 
+## Resources
+Cui, Y. (2020). Effective Data Filtering in Pandas Using .loc[]. *towardsdatascience.com*
+
+Moffit, C. (2019). Binning Data with Pandas qcut and cut.*Practical Business Python. pbpython.com*
 
 Instructions
 ----------------
