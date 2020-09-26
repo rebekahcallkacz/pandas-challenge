@@ -40,11 +40,6 @@ FairTest. (2020). FairTest Fact Sheets. *fairtest.org*
 
 Singh, M. (2015). Influence of socioeconomic disadvantages on mathematics achievement: A multilevel cohort analysis. *The Journal of Educational Research, 108*(5), 347-357.
 
-## Resources
-Cui, Y. (2020). Effective Data Filtering in Pandas Using .loc[]. *towardsdatascience.com*
-
-Moffit, C. (2019). Binning Data with Pandas qcut and cut.*Practical Business Python. pbpython.com*
-
 Instructions
 ----------------
 This script is tailored to two datasets with specific column names and information. If it were to be applied to another dataset, the data would need to be formatted accordingly or the code would need to be modified.
